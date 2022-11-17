@@ -78,7 +78,8 @@ a:hover {
   font-weight: normal;
 }
 .menu_principal a:hover{
-  color: #EB12C1;
+  color: #00F9FF;
+  font-weight: bold;
   transition: 500ms;  
 }
 .nav_link{
